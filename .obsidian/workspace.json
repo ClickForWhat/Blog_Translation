@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "ec913fa033d5f806",
+    "type": "split",
+    "children": [
+      {
+        "id": "25d71c3404c61d2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0284085edc69ccff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures in data-oriented design – Part 2：Hierarchical data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db8423dcbd4858a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "39acab111396a965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aea56a63f84b022",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21f57415f46ca1df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#StoreLoad屏障，这通常是一种更昂贵的内存屏障类型。",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "554fba0ed4f1220d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e730edad29374a6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "56e08ac9a0010275",
+    "type": "split",
+    "children": [
+      {
+        "id": "bde828d746b34f18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54c99e5656278c58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adventures in data-oriented design – Part 2：Hierarchical data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73b48fcd1bd806ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Adventures in data-oriented design – Part 2：Hierarchical data.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5f8b9ed0453b454",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7375783a3311411",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Adventures in data-oriented design – Part 2：Hierarchical data.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0284085edc69ccff",
+  "lastOpenFiles": [
+    "Adventures in data-oriented design – Part 3b： Internal References.md",
+    "Adventures in data-oriented design – Part 3a：Ownership.md",
+    "Adventures in data-oriented design – Part 2：Hierarchical data.md",
+    "Adventures in data-oriented design – Part 1：Mesh Data.md",
+    "Acquire and Release Semantics.md",
+    "Git/Git Quick Start - Basic.md",
+    "CMake/05 - Unit Testing - C：Catch2 Unit Testing Framework.md",
+    "CMake/05 - Unit Testing - B：Google Test Unit Testing Framework.md",
+    "CMake/03 - Code Generation - B：Protobuf code generation.md",
+    "CMake/01 - Basic - L：CPP standard.md",
+    "CMake/01 - Basic - J：Building with Ninja.md",
+    "CMake/01 - Basic - H：Third party library.md",
+    "CMake/01 - Basic - E：Installing.md",
+    "CMake/01 - Basic - C：Static library.md",
+    "CMake/01 - Basic - A：Hello cmake.md",
+    "C++/实现的优化策略.md",
+    "C++/实践模式.md",
+    "C++/标准文本/TrivialType.md",
+    "C++/标准文本/Swappable.md",
+    "C++/标准文本/StandardLayoutType.md",
+    "C++/标准文本/ScalarType.md",
+    "C++/标准文本/Fold expressions.md",
+    "C++/标准文本/Aggregate initialization.md",
+    "Allocation Adventures 3：The Buddy Allocator.md",
+    "Adventures in data-oriented design – Part 3c： External References.md",
+    "Job System 2.0：Lock-Free Work Stealing - Part 3：Going lock-free.md",
+    "pics/cpp11_fences.png",
+    "pics/acq_rel_lock.png",
+    "pics/plugin_1.png",
+    "pics/plugin_1.png.crdownload",
+    "CMake",
+    "未命名.canvas",
+    "Git",
+    "C++/标准文本",
+    "未命名 1",
+    "Blog",
+    "pics/techniques.png",
+    "pics/cpp11_no_fences.png",
+    "pics/platform_fences.png",
+    "pics/acq_rel_barriers.png",
+    "pics/characters.jpg",
+    "pics/do_design1 (1).png",
+    "pics/hierarchical-lookup-table.png",
+    "C++",
+    "Unfinished",
+    "pics"
+  ]
+}
