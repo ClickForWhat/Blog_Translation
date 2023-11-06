@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"1a3d8d1c09ae9ce6","x":344,"y":-163,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a0bdb838862e454e","x":147,"y":-700,"width":250,"height":60,"type":"text","text":"类型/值的演绎"},
+		{"id":"f0c18f747d02b858","x":334,"y":-840,"width":250,"height":60,"type":"text","text":"值空间"},
+		{"id":"3191f7eaa11f0498","x":-40,"y":-840,"width":250,"height":60,"type":"text","text":"类型空间"},
+		{"id":"df9f0ce40779fbdf","x":-220,"y":-575,"width":250,"height":60,"type":"text","text":"抽象机"},
+		{"id":"2bbc4712393a4810","x":-560,"y":-570,"width":250,"height":50,"type":"text","text":"1. 语言的演绎规则"},
+		{"id":"212dbda4f571bafd","x":-40,"y":-950,"width":250,"height":60,"type":"text","text":"f(x, y) = z"},
+		{"id":"0f8c742257c8c016","x":147,"y":-575,"width":250,"height":60,"type":"text","text":"概念演绎"},
+		{"id":"61e391c25f60209d","x":147,"y":-460,"width":250,"height":60,"type":"text","text":"符号流演绎"},
+		{"id":"d15d6fae81678e80","x":-560,"y":-1000,"width":290,"height":220,"type":"text","text":"int* i = &a;\nint j = 1;\n\nint j = i ^ 1 + i * 3;"},
+		{"id":"b78dc4db30271c8b","type":"text","text":"2. 语言的设施","x":-560,"y":-320,"width":250,"height":50},
+		{"id":"6c2722b041233b4b","x":-220,"y":-400,"width":250,"height":60,"type":"text","text":"1. 标准库设施"},
+		{"id":"d17755707282b50c","x":-220,"y":-240,"width":250,"height":60,"type":"text","text":"2. 其他 包 / 库"}
+	],
+	"edges":[
+		{"id":"d85d88a63c932c01","fromNode":"b78dc4db30271c8b","fromSide":"right","toNode":"6c2722b041233b4b","toSide":"left"},
+		{"id":"a692040a25301156","fromNode":"b78dc4db30271c8b","fromSide":"right","toNode":"d17755707282b50c","toSide":"left"},
+		{"id":"7c943236a5009acf","fromNode":"2bbc4712393a4810","fromSide":"right","toNode":"df9f0ce40779fbdf","toSide":"left"},
+		{"id":"5992dbdd07d538d9","fromNode":"df9f0ce40779fbdf","fromSide":"right","toNode":"a0bdb838862e454e","toSide":"left"},
+		{"id":"53a584acd9d83958","fromNode":"df9f0ce40779fbdf","fromSide":"right","toNode":"61e391c25f60209d","toSide":"left"},
+		{"id":"fb1bcb11cf4568b8","fromNode":"df9f0ce40779fbdf","fromSide":"right","toNode":"0f8c742257c8c016","toSide":"left"},
+		{"id":"fc82019aac3689fe","fromNode":"f0c18f747d02b858","fromSide":"left","toNode":"3191f7eaa11f0498","toSide":"right"},
+		{"id":"561213f4c65bf574","fromNode":"3191f7eaa11f0498","fromSide":"right","toNode":"f0c18f747d02b858","toSide":"left"}
+	]
+}

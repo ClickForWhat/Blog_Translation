@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "daefb3454e3defb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Unfinished/HPC/2.3. Loops and Conditionals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "552ed9048a958112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Unfinished/HPC/2.4. Functions and Recursion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0d87c7b5271f7ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Unfinished/HPC/2.5. Indirect Branching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "979fe1590fa95ea9",
+            "id": "582f7e8096dc2726",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cea51a85367d254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Unfinished/HPC/3.1. Pipeline Hazards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 238.5
   },
   "right": {
     "id": "56e08ac9a0010275",
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Unfinished/HPC/2.5. Indirect Branching.md",
+                "file": "_Unfinished/HPC/3.1. Pipeline Hazards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Unfinished/HPC/2.5. Indirect Branching.md",
+                "file": "_Unfinished/HPC/3.1. Pipeline Hazards.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Unfinished/HPC/2.5. Indirect Branching.md"
+                "file": "_Unfinished/HPC/3.1. Pipeline Hazards.md"
               }
             }
           }
@@ -191,18 +167,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a0d87c7b5271f7ee",
+  "active": "5aea56a63f84b022",
   "lastOpenFiles": [
-    "_Unfinished/HPC/2.4. Functions and Recursion.md",
-    "_Unfinished/HPC/2.5. Indirect Branching.md",
     "_Unfinished/HPC/2.6. Machine Code Layout.md",
+    "_Unfinished/HPC/3.1. Pipeline Hazards.md",
+    "README.md",
+    "_Unfinished/HPC/1. Complexity Models.md",
+    "_Unfinished/HPC/3.2. The Cost of Branching.md",
+    "_Unfinished/HPC/2.5. Indirect Branching.md",
+    "_Unfinished/HPC/2.4. Functions and Recursion.md",
     "_Unfinished/HPC/2.3. Loops and Conditionals.md",
     "_Unfinished/HPC/2.2. Assembly Language.md",
     "_Unfinished/HPC/2.1. Instruction Set Architectures.md",
     "_Unfinished/HPC/2. Computer Architectures.md",
     "_Unfinished/HPC/1.2. Programming Languages.md",
+    "_Pics/probabilities.png",
+    "_Pics/probabilities.svg",
+    "_Pics/probabilities.svg.crdownload",
+    "_Unfinished/HPC/3. Instruction-Level Parallelism.md",
+    "_Pics/bubble.png",
+    "_Pics/bubble.png.crdownload",
+    "_Unfinished/EnTT Doc - Crash Course：poly.md",
+    "_Pics/未命名.canvas",
+    "Data-Oriented Design(Or Why You Might Be Shooting Yourself In The Foot With OOP).md",
+    "_Pics/pipeline.png",
+    "_Pics/pipeline.png.crdownload",
     "_Unfinished/HPC/1.1. Modern Hardware.md",
-    "_Unfinished/HPC/1. Complexity Models.md",
+    "().md",
     "Adventures in data-oriented design – Part 2：Hierarchical data.md",
     "Adventures in data-oriented design – Part 1：Mesh Data.md",
     "Acquire and Release Semantics.md",
@@ -214,31 +205,15 @@
     "_Pics/dennard.ppm.crdownload",
     "_Pics/lithography.png",
     "_Pics/lithography.png.crdownload",
-    "README.md",
     "_Unfinished/The Story behind The Truth：Designing a Data Model.md",
     "_Unfinished/Multi-Threading The Truth.md",
     "_Unfinished/ECS back and forth Part 2 - Where are my entities？.md",
     "_Unfinished/EASTL - Electronic Arts Standard Template Library.md",
-    "_Unfinished/Building a load-balanced task scheduler - Part 2：Task model.md",
-    "_Unfinished/Building a load-balanced task scheduler - Part 1：Basics.md",
     "_Pics/complexity.jpg",
     "_Pics/complexity.jpg.crdownload",
     "_Pics/cpu.png",
     "_Pics/cpu.png.crdownload",
     "_Unfinished/HPC",
-    "Adventures in data-oriented design – Part 3b： Internal References.md",
-    "Adventures in data-oriented design – Part 3a：Ownership.md",
-    "Git/Git Quick Start - Basic.md",
-    "CMake/05 - Unit Testing - C：Catch2 Unit Testing Framework.md",
-    "CMake/05 - Unit Testing - B：Google Test Unit Testing Framework.md",
-    "pics/cpp11_fences.png",
-    "pics/acq_rel_lock.png",
-    "pics/plugin_1.png",
-    "pics/plugin_1.png.crdownload",
-    "CMake",
-    "未命名.canvas",
-    "Git",
-    "pics/techniques.png",
-    "pics/cpp11_no_fences.png"
+    "pics/cpp11_fences.png"
   ]
 }
